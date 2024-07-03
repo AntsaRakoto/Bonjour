@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(248, 248, 248);
+    font-size:20px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenu{
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 20vh;
+    display: inline-flex;
+    
+
+}
+.carte{
+    border: 2px solid rgb(59, 48, 46);
+    border-radius: 5px;
+    background-color: beige;
+    padding: 20px;
+    height: 650px;
+    text-align: center;
+}
+img{
+    width: 300px;
+    border-radius:5px;
+
+}
+.titre{
+    color: rgb(36, 69, 58);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    word-spacing: 2px;
+}
+button{
+    width: 200px;
+    background-color: rgb(88, 85, 85);
+    color: rgb(213, 230, 230);
+    border-radius: 6px;
+    font-size: 17px;
+}
